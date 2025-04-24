@@ -1,6 +1,3 @@
-تمام يا سلطان! هذا نص مشابه للصورة اللي أرسلتها، لكنه بصيغة مخصصة لك وبأسلوبك وملائم لمشاريعك:
-
----
 
 # Business Analytics Nanodegree
 ![image](https://github.com/user-attachments/assets/d2d8c408-47a6-4882-a005-124cdbcbb3f4)
